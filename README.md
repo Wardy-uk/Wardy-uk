@@ -6,7 +6,7 @@
 # Nick Ward
 
 
-<img align="right" src="https://github.com/Wardy-uk/nicholasjohnward/blob/master/about-me.png" alt="Illustration of Nick by his desk" width="50%" height="50%"/>
+<img align="right" src="https://github.com/Wardy-uk/Wardy-uk/blob/master/about-me.png" alt="Illustration of Nick by his desk" width="50%" height="50%"/>
 
 Hi, I'm Nick. 
 
